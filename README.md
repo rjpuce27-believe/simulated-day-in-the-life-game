@@ -6,7 +6,7 @@ This is a text-based Python game where you make decisions throughout a typical d
 
 Read each question and type the requested answer or menu number, then press Enter. Some choices earn productivity points, while others subtract points. During the morning and afternoon, you can complete several activities, but you cannot choose the same activity twice within that routine. After each activity, you can choose whether to do something else or move on. If you choose to study in the afternoon, you will answer additional questions about your study session. Some events are randomly selected, so the game may be a little different each time.
 
-At the end, the game displays your total productivity score. A score of 20 or more means you had a productive day and win; a lower score means you lose, with feedback about how the day went.
+At the end, the game displays your total productivity score. A score of 30 or more means you had a productive day and win; a lower score means you lose, with feedback about how the day went.
 
 ## How Player State Is Represented
 
